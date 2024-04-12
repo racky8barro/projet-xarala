@@ -1,0 +1,704 @@
+
+    *{
+        padding: 0px;
+        margin: 0px;
+    
+        font-family: 'poppins ', sans-serif;
+    
+    }
+   /* p{
+        font-weight: 300;
+        color: black;
+        
+    }*/
+    .image{
+        display: flex;
+        height: 50%;
+        width: 100%;
+
+        
+ }
+     
+
+    .banniere{
+        position: relative;
+        width: 100%;
+       background-image: url(images/WhatsApp\ Image\ 2024-03-28\ at\ 22.12.44.jpeg);
+        min-height: 100vh;
+        justify-content: center;
+        align-items: center;
+        background-size: cover;
+        display: flex;
+        gap: 50px;
+        
+        
+}
+
+.col img{
+    
+
+    text-align: center;
+    display: flex;
+}
+.col1{
+  align-items: center;
+  justify-content: center;
+}
+.col h2{
+    display: flex;
+   margin-left: 150px;
+    margin-top: 30px; 
+    justify-content: center;
+    align-items: center;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+   
+
+    
+}
+.produit1{
+    
+   background-color: white;
+    border-radius: 25px;
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.naturel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.temoingnages{
+ background-image: url(images/WhatsApp\ Image\ 2024-03-28\ at\ 22.12.46.jpeg);
+ width: 100%;
+ height: 500px;
+background-repeat: no-repeat;
+background-size: cover;
+opacity: 0.7;
+}
+.temoins{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding-top: 15px;
+    
+    
+}
+.form-control{
+    height: 40px;
+    width: 700px;
+    margin-top: 50px;
+    margin-left: 300px;
+
+}
+
+.btn-envoyer{
+    background-color: rgb(9, 58, 24);
+    margin-left: 600px;
+    margin-top: 25px;
+    border: 1px solid rgb(47, 255, 109);
+    height: 50px;
+    width: 100px;
+    
+}
+.bouteille{
+    height: 200px;
+    width: 200px;
+}
+.activ{
+    height: 300px;
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+    margin-top: 50px;
+    height: 30px;
+    width: 700px;
+}
+.conta{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+    margin-top: 25px;
+    height: 30px;
+    width: 700px; 
+}
+.contac{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+    margin-top: 25px;
+    height: 30px;
+    width: 700px;
+    background-color: rgb(10, 99, 50);
+    border-radius: 5px;
+}
+.contat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+    margin-top: 25px;
+    height: 50px;
+    width: 700px;
+}
+.forms{
+    background-image: url(images/WhatsApp\ Image\ 2024-03-28\ at\ 10.12.47\ PM.jpeg);
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    opacity: 0.7;
+}
+.object{
+    display: flex;
+    margin-left: 50px;
+    text-align: center;
+    
+}
+.flutter{
+    background-color: black;
+    color: white;
+     height: 300px;
+    padding-top: 20px;
+
+}
+.objectifs{
+    display: flex;
+    
+}
+.lundi{
+    margin-top: 20px;
+}
+.horaire {
+    margin-left: 100px;
+}
+.telephone{
+    margin-left: 200px;
+}
+.basdepage{
+    
+    border: 1px solid white;
+     align-items: center;
+     justify-content: center;
+    color:black;
+    background-color: white;
+    height: 50px;
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 40px;
+    margin-top: 100px;
+    
+}
+.objectif{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   margin-top: 25px;
+   padding-right: 50px;
+}
+.services{
+    background-color: rgb(239, 244, 248);
+    width: 100%;
+    height: 1000px;
+    
+    align-items: center;
+    justify-content: center;
+}
+.contact{
+ background-image:url(images/image-beautiful-african-woman-boy-600nw-1799394427.webp) ;
+ height: 500px;
+ width: 100%;
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin-top: 30px;
+ opacity: 0.7;
+ 
+}
+.contat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+.service{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 25px;
+    color: rgb(95, 207, 146);
+    
+}
+.service3{
+    background-color: white;
+    border-radius: 25px;
+    width: 300px;
+    height: 350px;
+    margin-left: 30px;
+    margin-top: 50px; 
+}
+.service1{
+    background-color: white;
+    border-radius: 25px;
+    width: 300px;
+    height: 350px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.active{
+    background-color:rgb(240, 227, 227);
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+.agricole{
+    height: 100px;
+    width: 200px;
+    border: 10px solid grey;
+    border-radius: 0 50px 0 50px;
+    margin-left: 20px;
+    margin-top: 60px;
+}
+.potager{
+    height: 100px;
+    width: 200px;
+    border: 10px solid grey;
+    border-radius: 0 50px 0 50px;
+    margin-left: 20px;
+}
+.transformation{
+    text-align: center;
+    margin-top: 15px;
+}
+.usine{
+    height: 100px;
+    width: 200px;
+    border: 10px solid grey;
+    border-radius: 0 50px 0 50px;
+    margin-left: 20px;
+}
+.agroalimentaire{
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 50px;
+    margin-top: 25px;
+    width: 800px;
+}
+.dolor{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 40px;
+}
+.nectar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    color: rgb(95, 207, 146);
+}
+.service2{
+    background-color: white;
+    border-radius: 25px;
+    width: 300px;
+    height: 350px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.design{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70px;
+}
+.servic{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 95px;
+    text-align: center;
+}
+.person h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+.person1 h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+.person2 h3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+.person2{
+    background-color: white;
+    height: 400px;
+    width: 250px;
+    margin-left: 50px; 
+    margin-top: 15px;
+    border-radius: 10px;
+}
+.person1{
+    background-color: white;
+    height: 400px;
+    width: 250px;
+    margin-left: 50px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+.person{
+    background-color: white;
+    height: 400px;
+    width: 250px;
+    margin-left: 300px;
+    margin-top: 15px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.temoi{
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    
+}
+
+.star{
+    font-size: 1.5rem;
+    color: rgb(76, 153, 117);
+    
+}
+
+.etoile{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.prix{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+.btn-primary{
+    background-color: rgb(76, 153, 117);
+     width: 300px;
+     height: 50px;
+     color: white;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 1.5rem;
+     border-radius: 0 0 25px 25px;
+     align-content: center;
+     justify-content: center;
+     display: flex;
+}
+.nom{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+}
+.sankhal{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+.produit h2{
+    color: rgb(42, 155, 76);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.arraw{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+
+}
+.soungouf{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+.thiakry{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+}
+.produit4{
+    background-color: white;
+    border-radius: 25px;
+    width: 300px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+      
+}
+.produit3{
+    background-color: white;
+    border-radius: 25px;
+    width: 300px;
+    height: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+     
+}
+.produit2{
+    background-color: white;
+    border-radius: 25px;
+    width: 300px;
+    height: 300px;
+     margin-left: 20px;
+     margin-top: 20px;
+   
+     
+    
+}
+.produit{
+    background-color:   rgb(226, 236, 236) ;
+    height: 400px;
+    gap: 15px 20px;
+
+}
+.color{
+    color: coral;
+    text-align: center;
+    
+}
+.col{
+    border-radius: 15px;
+    background-color: white;
+    margin-left: 50px;
+    display: flex;
+    width: 130vh;
+    height: 350px;
+    
+    margin-top: 20px;
+}
+.champ{
+    height: 100px;
+    width: 100px;
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+}
+.images{
+    display: flex;
+    align-items: center;
+    
+    }
+.test{
+    height: 100px;
+    width: 100px;
+    margin-top: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.next{
+    height: 100px;
+    width: 100px;
+    margin-top: 200px;
+}
+  .fruit{
+    margin-top: 20px;
+    width: 300px;
+    height: 350px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 100px;
+    border-radius: 25px;
+     
+
+  }
+  .contenu{
+    background-color: rgb(231, 222, 222);
+    
+    
+    height: 400px;
+  }
+    .container{
+        max-width: 50%;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        
+    }
+    .Transformation{
+        display: flex;
+        margin-top: 50px;
+    }
+    .loremm{
+    display: flex;
+     color:black;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-top: 100px;
+    padding: 0%;
+    
+
+    
+
+
+                  
+        
+    }
+    .lorem{
+        color: white;
+        display: flex;
+        margin-top: 50px;
+        justify-content: center;
+        align-items: center
+    }
+    .primary{
+        background: rgb(77, 100, 40);
+        padding: 10px 20px ;
+        color: white;
+        border-radius: 5px;
+        margin-top: 50px;
+    }
+    .test{
+        display: flex;
+        height: 100px;
+        width: 100px;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    
+    .imagefruit{
+        width: 100%;
+        
+    }
+    header{
+    position: relative;
+    height: 50px;
+   top: 0%;
+    left: 0%;
+    padding: 20px;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+     align-items: center;
+     transition: 0.5s;
+     background-color:white;
+     border-radius: 0 0 0  0;
+     border: 1px solid wheat;
+    box-sizing: content-box;
+
+    }
+    .logo{
+        height: 70px;
+        width: 70px;
+    }
+    .navbar{
+       display: flex; 
+       position: relative;
+    }
+    .navbar li {
+        list-style: none;
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-end;
+    }
+    .navbar a{
+        color:black;
+        text-decoration: none;
+        margin-left: 30px;
+        font-weight: 700;
+    }
+    .panier{
+        height: 15px;
+        width: 15px;
+
+    }
+    .bouteille{
+        margin-top: 50px;
+        height: 200px;
+        width: 200px;
+        margin-left: 50px;
+    
+    }
+    .tamarin{
+        margin-top: 50px;
+        height: 200px;
+        width: 200px;
+        margin-left: 40px;
+    }
+    .bissap{
+        margin-top: 50px;
+        height: 200px;
+        width: 200px;
+        margin-left: 40px;
+    }
+    .esteval{
+        margin-top: 50px;
+        height: 200px;
+        width: 200px;
+        margin-left: 40px;
+    }
+    .recherche{
+        height: 15px;
+        width: 15px;
+        
+    }
+    .loren{
+        margin-top: 100px;
+    }
+    .loren1{
+        margin-top: 50px;
+    }
+
+.btnsabonner{
+    margin-right: 50px;
+    padding: 10px 20px ;
+    background: rgb(77, 100, 40);
+    margin-top: -10px;
+    border-radius: 5px;
+    color: white;
+}
